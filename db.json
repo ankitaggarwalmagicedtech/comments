@@ -17,18 +17,22 @@
                         "comments": [
                             {
                                 "commentURN": "CURN:1:1:1:1",
-                                "addedBy": "SSO3",
+                                "addedBy": "c5 test01",
                                 "addedAt": "",
                                 "status": "open",
                                 "comment": "Test Comment 1",
-                                "assignedTo": "c5Test01",
+                                "assignedTo": "SSO 3",
                                 "replies": [
                                     {
                                         "commentURN": "CURN:1:1:1:1:1",
+                                        "addedBy": "c5 test01",
+                                        "addedAt": "",
                                         "comment": "Reply 1"
                                     },
                                     {
                                         "commentURN": "CURN:1:1:1:1:2",
+                                        "addedBy": "c5 test01",
+                                        "addedAt": "",
                                         "comment": "Reply 2"
                                     }
                                 ]
@@ -43,10 +47,14 @@
                                 "replies": [
                                     {
                                         "commentURN": "CURN:1:1:1:2:1",
+                                        "addedBy": "c5 test01",
+                                        "addedAt": "",
                                         "comment": "Reply 1"
                                     },
                                     {
                                         "commentURN": "CURN:1:1:1:2:2",
+                                        "addedBy": "c5 test01",
+                                        "addedAt": "",
                                         "comment": "Reply 2"
                                     }
                                 ]
