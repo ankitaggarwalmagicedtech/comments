@@ -5,9 +5,59 @@
     { "id": 3, "tc": false, "start": "20-Nov-2018" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+    {
+        "projectURN": "DURN:1",
+        "slates": [
+            {
+                "slateURN": "EURN:1:1",
+                "name": "Test Slate",
+                "elements": [
+                    {
+                        "workURN": "WURN:1:1:1",
+                        "comments": [
+                            {
+                                "commentURN": "CURN:1:1:1:1",
+                                "addedBy": "SSO3",
+                                "addedAt": "",
+                                "status": "open",
+                                "comment": "Test Comment 1",
+                                "assignedTo": "c5Test01",
+                                "replies": [
+                                    {
+                                        "commentURN": "CURN:1:1:1:1:1",
+                                        "comment": "Reply 1"
+                                    },
+                                    {
+                                        "commentURN": "CURN:1:1:1:1:2",
+                                        "comment": "Reply 2"
+                                    }
+                                ]
+                            },
+                            {
+                                "commentURN": "CURN:1:1:1:2",
+                                "addedBy": "SSO3",
+                                "addedAt": "",
+                                "status": "open",
+                                "comment": "Test Comment 2",
+                                "assignedTo": "c5Test01",
+                                "replies": [
+                                    {
+                                        "commentURN": "CURN:1:1:1:2:1",
+                                        "comment": "Reply 1"
+                                    },
+                                    {
+                                        "commentURN": "CURN:1:1:1:2:2",
+                                        "comment": "Reply 2"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+],
   "profile": {
     "name": "typicode"
   }
