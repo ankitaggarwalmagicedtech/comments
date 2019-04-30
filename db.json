@@ -58,17 +58,7 @@
                                         "comment": "Reply 2"
                                     }
                                 ]
-                            },
-                          {
-                                "commentURN": "CURN:1:1:1:2",
-                                "addedBy": "SSO3",
-                                "addedAt": "",
-                                "status": "open",
-                                "comment": "Test Comment 2",
-                                "assignedTo": "c5Test01",
-                                
                             }
-                      
                         ]
                     }
                 ]
