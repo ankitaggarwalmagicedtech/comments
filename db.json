@@ -41,7 +41,7 @@
                                 "commentURN": "CURN:1:1:1:2",
                                 "addedBy": "SSO3",
                                 "addedAt": "",
-                                "status": "open",
+                                "status": "resolved",
                                 "comment": "Test Comment 2",
                                 "assignedTo": "c5Test01",
                                 "replies": [
