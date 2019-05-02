@@ -19,7 +19,7 @@
                                 "commentURN": "CURN:1:1:1:1",
                                 "addedBy": "c5 test01",
                                 "addedAt": "",
-                                "status": "resolved",
+                                "status": "open",
                                 "comment": "Test Comment 1",
                                 "assignedTo": "SSO 3",
                                 "replies": [
