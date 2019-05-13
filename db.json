@@ -1,10 +1,4 @@
-{
-  "projects": [
-    { "id": 1, "tc": true, "start": "21-Nov-2018" },
-    { "id": 2, "tc": true, "start": "20-Nov-2018" },
-    { "id": 3, "tc": false, "start": "20-Nov-2018" }
-  ],
-  "comments": [
+[
     {
         "projectURN": "DURN:1",
         "slates": [
@@ -18,7 +12,7 @@
                             {
                                 "commentURN": "CURN:1:1:1:1",
                                 "addedBy": "c5 test01",
-                                "addedAt": "",
+                                "addedAt": "2019-04-09T14:22:28.218Z",
                                 "status": "open",
                                 "comment": "Test Comment 1",
                                 "assignedTo": "SSO 3",
@@ -26,13 +20,13 @@
                                     {
                                         "commentURN": "CURN:1:1:1:1:1",
                                         "addedBy": "c5 test01",
-                                        "addedAt": "",
+                                        "addedAt": "2019-04-12T16:13:54.218Z",
                                         "comment": "Reply 1"
                                     },
                                     {
                                         "commentURN": "CURN:1:1:1:1:2",
                                         "addedBy": "c5 test01",
-                                        "addedAt": "",
+                                        "addedAt": "2019-04-17T20:29:36.218Z",
                                         "comment": "Reply 2"
                                     }
                                 ]
@@ -40,21 +34,21 @@
                             {
                                 "commentURN": "CURN:1:1:1:2",
                                 "addedBy": "SSO3",
-                                "addedAt": "",
-                                "status": "resolved",
+                                "addedAt": "2019-04-14T09:34:47.218Z",
+                                "status": "open",
                                 "comment": "Test Comment 2",
                                 "assignedTo": "c5Test01",
                                 "replies": [
                                     {
                                         "commentURN": "CURN:1:1:1:2:1",
                                         "addedBy": "c5 test01",
-                                        "addedAt": "",
+                                        "addedAt": "2019-04-17T18:49:21.218Z",
                                         "comment": "Reply 1"
                                     },
                                     {
                                         "commentURN": "CURN:1:1:1:2:2",
                                         "addedBy": "c5 test01",
-                                        "addedAt": "",
+                                        "addedAt": "2019-04-21T11:31:52.218Z",
                                         "comment": "Reply 2"
                                     }
                                 ]
@@ -65,8 +59,4 @@
             }
         ]
     }
-],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
