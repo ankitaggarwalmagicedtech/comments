@@ -1,4 +1,10 @@
-[
+{
+  "projects": [
+    { "id": 1, "tc": true, "start": "21-Nov-2018" },
+    { "id": 2, "tc": true, "start": "20-Nov-2018" },
+    { "id": 3, "tc": false, "start": "20-Nov-2018" }
+  ],
+  "comments": [
     {
         "projectURN": "DURN:1",
         "slates": [
@@ -59,4 +65,8 @@
             }
         ]
     }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
