@@ -67,56 +67,55 @@
     }
 ],
   "slateComments": {
-    "projectUrn" : "urn:pearson:distributable:50468957-c343-44af-9889-8094709cda1f",
-    "ContainerEntityUrn" : "urn:pearson:entity:6768ebe6-eaec-4a90-bb29-b61336777646",
-    "comments" : [
-        {
-            "commentUrn" : "urn:pearson:comment:8eb5ff16-2bdf-4ed1-997c-e367e7d07989", 
-            "commentType" : "comment", 
-            "commentDateTime" : "2019-04-09T14:22:28.218Z", 
-            "commentAssignee" : "Suziii1", 
-            "commentCreator" : "Lionel", 
-            "commentString" : "Hello, is it me you are looking for", 
-            "commentReplyUrn" : [
-                "urn:pearson:comment:209d3b3e-571d-466f-99e3-831862856aac"
-            ], 
-            "commentStatus" : "RESOLVED", 
-            "CommentOnEntity" : "urn:pearson:work:036abd21-f6d6-486b-970b-32d963c9f271"
-        },
-        {
-            "commentUrn" : "urn:pearson:comment:209d3b3e-571d-466f-99e3-831862856aac", 
-            "commentType" : "commentReply", 
-            "commentDateTime" : "2019-04-09T14:22:54.168Z", 
-            "commentCreator" : "suzzz", 
-            "commentString" : "this is how i see u", 
-            "commentReplyForUrn" : [
-                "urn:pearson:comment:8eb5ff16-2bdf-4ed1-997c-e367e7d07989"
-            ], 
-            "commentStatus" : "Open", 
-            "CommentOnEntity" : "urn:pearson:work:036abd21-f6d6-486b-970b-32d963c9f271"
-        },
-        {
-             "commentUrn" : "urn:pearson:comment:652eecbd-dd80-4037-a7f9-76d74146249e", 
-            "commentType" : "comment", 
-            "commentDateTime" : "2019-04-10T11:22:06.484Z", 
-            "commentAssignee" : "Suzi", 
-            "commentCreator" : "Lionel", 
-            "commentString" : "Hello, is it me you Hi this \\ kabs\\lak  \" /mnan are looking for", 
-            "commentStatus" : "Open", 
-            "CommentOnEntity" : "urn:pearson:work:ff8d1d9c-5676-460f-8b3a-cb71ab8a94d2"
-        },
+	"projectUrn": "urn:pearson:distributable:50468957-c343-44af-9889-8094709cda1f",
+	"ContainerEntityUrn": "urn:pearson:entity:6768ebe6-eaec-4a90-bb29-b61336777646",
+	"comments": [{
+			"commentUrn": "urn:pearson:comment:8eb5ff16-2bdf-4ed1-997c-e367e7d07989",
+			"commentType": "comment",
+			"commentDateTime": "2019-04-09T14:22:28.218Z",
+			"commentAssignee": "Suziii1",
+			"commentCreator": "Lionel",
+			"commentString": "Hello, is it me you are looking for",
+			"commentReplyUrn": [
+				"urn:pearson:comment:209d3b3e-571d-466f-99e3-831862856aac"
+			],
+			"commentStatus": "RESOLVED",
+			"CommentOnEntity": "urn:pearson:work:036abd21-f6d6-486b-970b-32d963c9f271"
+		},
 		{
-            "commentUrn" : "urn:pearson:comment:209d3b3e-571d-466f-99e3-831862856777", 
-            "commentType" : "commentReply", 
-            "commentDateTime" : "2019-04-09T14:22:54.168Z", 
-            "commentCreator" : "suzzz", 
-            "commentString" : "this is how i see u", 
-            "commentReplyForUrn" : [
-                "urn:pearson:comment:652eecbd-dd80-4037-a7f9-76d74146249e"
-            ], 
-            "commentStatus" : "Open", 
-            "CommentOnEntity" : "urn:pearson:work:ff8d1d9c-5676-460f-8b3a-cb71ab8a94d2"
-        },
-    ]
-}
+			"commentUrn": "urn:pearson:comment:209d3b3e-571d-466f-99e3-831862856aac",
+			"commentType": "commentReply",
+			"commentDateTime": "2019-04-09T14:22:54.168Z",
+			"commentCreator": "suzzz",
+			"commentString": "this is how i see u",
+			"commentReplyForUrn": [
+				"urn:pearson:comment:8eb5ff16-2bdf-4ed1-997c-e367e7d07989"
+			],
+			"commentStatus": "Open",
+			"CommentOnEntity": "urn:pearson:work:036abd21-f6d6-486b-970b-32d963c9f271"
+		},
+		{
+			"commentUrn": "urn:pearson:comment:652eecbd-dd80-4037-a7f9-76d74146249e",
+			"commentType": "comment",
+			"commentDateTime": "2019-04-10T11:22:06.484Z",
+			"commentAssignee": "Suzi",
+			"commentCreator": "Lionel",
+			"commentString": "Hello, is it me you Hi this \\ kabs\\lak  \" /mnan are looking for",
+			"commentStatus": "Open",
+			"CommentOnEntity": "urn:pearson:work:ff8d1d9c-5676-460f-8b3a-cb71ab8a94d2"
+		},
+		{
+			"commentUrn": "urn:pearson:comment:209d3b3e-571d-466f-99e3-831862856777",
+			"commentType": "commentReply",
+			"commentDateTime": "2019-04-09T14:22:54.168Z",
+			"commentCreator": "suzzz",
+			"commentString": "this is how i see u",
+			"commentReplyForUrn": [
+				"urn:pearson:comment:652eecbd-dd80-4037-a7f9-76d74146249e"
+			],
+			"commentStatus": "Open",
+			"CommentOnEntity": "urn:pearson:work:ff8d1d9c-5676-460f-8b3a-cb71ab8a94d2"
+		}
+	]
+  }
 }
