@@ -67,9 +67,9 @@
     }
 ],
   "slateComments": {
-    projectUrn : "urn:pearson:distributable:50468957-c343-44af-9889-8094709cda1f",
-    ContainerEntityUrn : "urn:pearson:entity:6768ebe6-eaec-4a90-bb29-b61336777646",
-    comments : [
+    "projectUrn" : "urn:pearson:distributable:50468957-c343-44af-9889-8094709cda1f",
+    "ContainerEntityUrn" : "urn:pearson:entity:6768ebe6-eaec-4a90-bb29-b61336777646",
+    "comments" : [
         {
             "commentUrn" : "urn:pearson:comment:8eb5ff16-2bdf-4ed1-997c-e367e7d07989", 
             "commentType" : "comment", 
