@@ -85,7 +85,7 @@
 ],
   "slateComments": {
 	"projectUrn": "urn:pearson:distributable:50468957-c343-44af-9889-8094709cda1f",
-	"ContainerEntityUrn": "urn:pearson:entity:6768ebe6-eaec-4a90-bb29-b61336777646",
+	"ContainerEntityUrn": "urn:pearson:manifest:3116d208-f951-4657-b1fe-a2cb3337d96d",
 	"comments": [{
 			"commentUrn": "urn:pearson:comment:8eb5ff16-2bdf-4ed1-997c-e367e7d07989",
 			"commentType": "comment",
@@ -109,7 +109,7 @@
 				"CommentOnEntity": "urn:pearson:work:036abd21-f6d6-486b-970b-32d963c9f271"
 			}],
 			"commentStatus": "RESOLVED",
-			"CommentOnEntity": "urn:pearson:work:036abd21-f6d6-486b-970b-32d963c9f271"
+			"CommentOnEntity": "urn:pearson:work:21507ee2-f14f-4671-945e-098d9873cca3"
 		},
 
 		{
@@ -128,7 +128,7 @@
 				"CommentOnEntity": "urn:pearson:work:036abd21-f6d6-486b-970b-32d963c9f272"
 			}],
 			"commentStatus": "RESOLVED",
-			"CommentOnEntity": "urn:pearson:work:036abd21-f6d6-486b-970b-32d963c9f272"
+			"CommentOnEntity": "urn:pearson:work:292c2276-7427-46c4-8d19-c1837d7fb859"
 		}
 	] 
 }
