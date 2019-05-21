@@ -14,6 +14,11 @@
         "userId": "RURN:3",
         "name": "SSO 3",
         "role": "reviewer"
+    },
+    {
+        "userId": "RURN:4",
+        "name": "SSO 3",
+        "role": "edit"
     }
 ],
   "comments": [
